@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Jenkinspractice.JenPractice3Test"/>
+      <class name="Jenkinspractice.JenPractice2Test"/>
+      <class name="Jenkinspractice.JenPractice1Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
