@@ -9,6 +9,8 @@ public class JenPractice1Test {
 		Reporter.log("Jenkins-Practice1",true);
 		Reporter.log("Jenkins-Practice11",true);
 		Reporter.log("Jenkins-Practice111",true);
+		Reporter.log("Jenkins-Practice1111",true);
+		
 	}
 
 }
