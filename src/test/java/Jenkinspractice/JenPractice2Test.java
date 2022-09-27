@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 public class JenPractice2Test {
 	@Test
+      //changes done by b1
 	public void jenPractice2() {
 		String browser = System.getProperty("b");
 		String url = System.getProperty("u");
